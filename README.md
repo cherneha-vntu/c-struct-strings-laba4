@@ -1,4 +1,4 @@
-# Laboratory Work 4
+# Lab Work 4: String Manipulation and Structures in C
 
 This project is a laboratory/practical work for the "Computer Technologies and Programming" course. It contains programs for working with arrays of structures and parsing strings in C.
 
