@@ -15,8 +15,13 @@ This program reads a sentence from the user and calculates the length of the n-t
 ## How to Compile and Run
 
 ```bash
-gcc filename.c -o out
-./out
+# Task 1
+gcc task1.c -o task1
+./task1
+
+# Task 2
+gcc task2.c -o task2
+./task2
 ```
 
 ## Example Usage
